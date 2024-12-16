@@ -1,0 +1,157 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add Item" : {
+      "comment" : "Title for add product screen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un article"
+          }
+        }
+      }
+    },
+    "Alpha" : {
+      "comment" : "Picker title for sorting by name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alpha"
+          }
+        }
+      }
+    },
+    "An error occurred while fetching the products." : {
+      "comment" : "Message shown when products fetch fails",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur s'est produite lors de la récupération des produits."
+          }
+        }
+      }
+    },
+    "An error occurred while saving the product." : {
+      "comment" : "Message shown when product save fails",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur s'est produite lors de l'enregistrement du produit."
+          }
+        }
+      }
+    },
+    "Creation Time" : {
+      "comment" : "Picker title for sorting by date",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temps de création"
+          }
+        }
+      }
+    },
+    "e.g., Shirt, Coat" : {
+      "comment" : "Placeholder text for garment name text input field",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "par exemple, chemise, manteau"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "comment" : "Title of the alert when error occurs",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur"
+          }
+        }
+      }
+    },
+    "Garment Name:" : {
+      "comment" : "Garment name text input header",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom du vêtement :"
+          }
+        }
+      }
+    },
+    "List" : {
+      "comment" : "Title for home screen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste"
+          }
+        }
+      }
+    },
+    "No products found" : {
+      "comment" : "Shown when no products exist",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun produit trouvé"
+          }
+        }
+      }
+    },
+    "Okay" : {
+      "comment" : "Button title for alert",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D'accord"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "comment" : "Save button title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarder"
+          }
+        }
+      }
+    },
+    "Sort by" : {
+      "comment" : "Title for the sort picker",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trier par"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
